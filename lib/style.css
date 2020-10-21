@@ -1,0 +1,58 @@
+/* Add your styles here */
+
+#cabeza {
+  color: gold;
+  background-color: #820000;
+  text-align: center;
+}
+#vino {
+  color: #820000;
+  background-color: gold;
+  text-align: center;
+}
+
+#tro {
+  color: gold;
+  background-color: #820000;
+  text-align: center;
+}
+
+#info {
+  color: gold;
+  background-color: #820000;
+  text-align: center;
+}
+
+#his {
+  color: gold;
+  background-color: #820000;
+  text-align: center;
+}
+
+#goleadores {
+  color: gold;
+  background-color: #820000;
+  text-align: center;
+}
+
+#uno {
+  color: #820000;
+  background-color: gold;
+  text-align: center;
+}
+
+#dos {
+  color: #820000;
+  background-color: gold;
+  text-align: center;
+}
+
+#tres {
+  color: #820000;
+  background-color: gold;
+  text-align: center;
+}
+
+.historia {
+  font-weight: bold;
+}
